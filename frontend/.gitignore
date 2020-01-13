@@ -1,5 +1,5 @@
 node_modules/
 build/
-config/development.js
-config/localhost.js
-config/production.js
+src/config/development.js
+src/config/localhost.js
+src/config/production.js
